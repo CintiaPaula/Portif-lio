@@ -1,0 +1,118 @@
+ body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: rgb(243, 237, 241);
+        }
+
+        header {
+            background-color: #333;
+            color: hsl(324, 91%, 49%);
+            text-align: center;
+            padding: 20px;
+            position: relative;
+        }
+
+        #profile-image {
+            position: absolute;
+            left: 10px;
+            top: 3rem;
+            width: 20%; /* Ajuste o tamanho da imagem conforme necessário */
+            height: auto;
+            border-radius: 50%;
+        }
+
+        h1 {
+            font-size: 36px;
+        }
+
+        
+        
+        section {
+            max-width: 800px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-90%);
+            padding: 20px;
+        }
+
+        h2 {
+            font-size: 24px;
+        }
+
+        p {
+            font-size: 16px;
+        }
+
+        
+        
+        
+        .contact-item img.phone-icon {
+            width: 30px;
+            height: 30px;
+            margin-right: 10px
+            
+            /* Outras propriedades de estilo específicas para a imagem de telefone */
+        }
+        
+        .contact-item img.email-icon {
+            width: 30px;
+            height: 30px;
+            margin-right: 10px
+            /* Outras propriedades de estilo específicas para a imagem de e-mail */
+        }
+
+        .contact-item img.instagram-icon {
+            width: 30px;
+            height: 30px;
+            margin-right: 10px
+            /* Outras propriedades de estilo específicas para a imagem de e-mail */
+        }
+        
+        .contact-item img.linkedin-icon {
+            width: 30px;
+            height: 30px;
+            margin-right: 10px
+            /* Outras propriedades de estilo específicas para a imagem de e-mail */
+        }
+        .contact-item img.address-icon {
+            width: 30px;
+            height: 30px;
+            margin-right: 10px
+            /* Outras propriedades de estilo específicas para a imagem de endereço */
+        }
+
+        
+        #personal-container {
+            padding-top: 20px;
+        }
+
+        section {
+           
+            
+            
+            text-align: center; /* Centraliza o conteúdo do texto */
+            max-width: 800px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-90%);
+            padding: 20px;
+          }
+          
+          .tabela1 {
+            margin: 230px auto; /* Centraliza a tabela horizontalmente e adiciona margem na parte superior */
+            width: 100%; /* Faz a tabela ocupar toda a largura disponível */
+            position: absolute;
+            
+          }
+       
+        .tabela2{
+            margin: 600px auto; /* Centraliza a tabela horizontalmente e adiciona margem na parte superior */
+            width: 100%; /* Faz a tabela ocupar toda a largura disponível */
+            position: absolute;
+          
+
+        }
+        
